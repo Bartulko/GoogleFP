@@ -123,6 +123,7 @@ main {
   opacity: 0.6;
 }
 
+/* tutaj tez siemanko */ 
 .button-grid {
   display: flex;
   align-items: center;
@@ -130,16 +131,17 @@ main {
 }
 
 .button-grid button {
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1rem;
   border: 1px solid transparent;
-  background: rgb(248, 248, 248);
-  border-radius: 0.25rem;
+  background: rgb(247, 247, 247);
+  border-radius: 0.30rem;
 }
 
 .button-grid button:hover {
   border: 1px solid slategray;
 }
 
+/* to co jest pod tym search barem */
 .language-text {
   font-size: 0.8rem;
 }
